@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English-man's happiness under a Protestant-prince and the present condition of the kingdom considered.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38468</idno>
+            <idno type="STC">Wing E3100</idno>
+            <idno type="STC">ESTC R9047</idno>
+            <idno type="EEBO-CITATION">13274708</idno>
+            <idno type="OCLC">ocm 13274708</idno>
+            <idno type="VID">98709</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98709)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 453:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English-man's happiness under a Protestant-prince and the present condition of the kingdom considered.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. B. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98709:1" rendition="simple:additions"/>
+            <head>The Engliſh-Man's Happineſs under a PROTESTANT-PRINCE; <hi>And the preſent Condition of the Kingdom Conſidered.</hi>
+            </head>
+            <epigraph>
+               <q>O Fortunati bona ſi ſua norint.</q>
+            </epigraph>
+            <p>AMongſt ſo many Pamphlets which have been vented of late, ſome I am very confident there have been; of good uſe if read, which have been thrown by, becauſe they were not crowded into the narrow compaſs of a Penny Sheet, as if a greater Charge with an Hours ſerious Reading, were too much to inform Mens Judgements, and Reform their Princi<g ref="char:EOLhyphen"/>ples, and though it be very hard to keep within thoſe bounds, I ſhall endeavour, if not altogether within, to come as near them as is poſſible, the end of this Paper is to convince ſome <hi>Malecontents</hi> who are uneaſie under the Government, and who reproach the King with <hi>want of Affection for his People;</hi> onely becauſe he has ſome for his Brother; That we are moſt happy in many great things which the King has done for us, and that he hath done them freely and conſequently for the love and good will he bare us; in doing of which I ſhall as much as in me lies, avoid Notions &amp; Arguments, which ſeldome or never reconcile contrary opinions, and inſiſt chiefly on matter of Fact, which being of late time, and in every Mans memory, admits no <hi>Con<g ref="char:EOLhyphen"/>tradiction.</hi> And here I ſhall not run back into the late times, and ſtep between them and the Act of Oblivion to encreaſe the Obligation; which I do but juſt name, though it may well be placed in the very Head of all <hi>Subſequent Benefits;</hi> and perhaps had never more cauſe to be ſpoken of then now, when moſt <hi>Men</hi> ſeem to have forgot that there has been ſuch a thing; I do heartily wiſh, the <hi>Principles of thoſe Times</hi> were as truly forgotten on our ſide, as the practices that reſulted from them are forgiven of his, 'tis from the <hi>Reſtauration,</hi> the <hi>New Epocha</hi> of this Kingdome, from whence we may much more truly date <hi>Annum Reſtauratae Libertatis,</hi> that I ſhall begin.</p>
+            <p>After the <hi>Act of Oblivion,</hi> the people were very ſenſible what vaſt Demands and Pretenſions ſome Eighteen Years of ſuch Killing and Slaying had given the King upon all Tenures in <hi>Capite</hi> and by <hi>Knights Service,</hi> what Summs would be comming to him by the <hi>Court of Wards</hi> and <hi>Liveries,</hi> how he had a kind of Command over every per<g ref="char:EOLhyphen"/>ſon, and an immediate and very conſiderable Intereſt in every Eſtate by the <hi>Wardſhip</hi> of <hi>Minors, Marriages, Primerſeiſins,</hi> and <hi>Fines,</hi> &amp;c. ſo that unleſs this were remitted too, the <hi>Act of Oblivion,</hi> was in effect no pardon to them that hold in <hi>Capite</hi> ſince with their Lives it gave not their Eſtates, but his Majeſty prevents their fears, and by Act of Parliament, 12 <hi>Car.</hi> Ch. 24. deprives himſelf of the Richeſt Jewel of the Crown, a Prerogative ſo truly Royal, and of ſo vaſt Advantage, that in <hi>England</hi> the people, in the Judgement of the Learned in the Law, <hi>were never truly free till then,</hi> ſo ſtrict an <hi>Hand of Power</hi> could the King keep over us by <hi>thoſe Tenures,</hi> that not the leaſt <hi>Diſre<g ref="char:EOLhyphen"/>ſpect</hi> or <hi>Diſobedience</hi> was to be feared, and to the vaſt <hi>Advantages</hi> of this part of <hi>Pre<g ref="char:EOLhyphen"/>rogative,</hi> muſt all the <hi>great Actions</hi> of our former Kings be imputed, when the <hi>Gentry</hi> were bound to ſerve the <hi>King,</hi> and the <hi>People</hi> the <hi>Gentry.</hi>
+            </p>
+            <p>And becauſe <hi>good and wholeſome Laws are the beſt Security and greateſt Happineſs of a Nation,</hi> I deſire the Reader to obſerve, that no one <hi>
+                  <g ref="char:V">Ʋ</g>ſeful Bill</hi> has been tendred to his Majeſty, which he has <hi>Refus'd,</hi> till within this Year, and that but once, of which here<g ref="char:EOLhyphen"/>after, if <hi>innumerable and continued Affronts, Calumnies, and Injuries</hi> (which every pri<g ref="char:EOLhyphen"/>vate Man of Honour would reſent and puniſh) compelled him for his own Honour and that of all Kings, <hi>to make War with a Neighbour;</hi> no ſooner was he informed <hi>that the ſame was Prejudicial to his People,</hi> but he ſhuffles up a peace upon tearms very hard for himſelf, and ſacrifices his own juſt <hi>Reſentments</hi> to the gainful deſires of a part of
+<pb n="2" facs="tcp:98709:2"/>his people, and that in a time when (ſuch was the ſtate of his Enemies) he might by ſtanding off a while have made his own <hi>Conditions:</hi> But when a War has been entred into for <hi>Injuries offered to his People,</hi> no Conſideration, no not Plague nor Fire, which in the compaſs of <hi>Twenty Months</hi> impoveriſh'd the Land by the loſs of ſo much <hi>Money</hi> and <hi>People,</hi> could perſwade him <hi>to end the War,</hi> till ample offers of Satisfaction were made, and they for whoſe ſakes he began that War, either <hi>weary of it,</hi> or <hi>believing themſelves ſufficiently revenged,</hi> deſired it; ſee the Articles of Peace with <hi>Holland,</hi> in 1674, and thoſe in <hi>Aug.</hi> 1667. If once upon Advice he granted a <hi>Tolleration of Religi<g ref="char:EOLhyphen"/>on,</hi> did he not ſo ſoon as he was ſatisfied by his great Council of the pernicious and <hi>Dangerous Conſequences</hi> of ſuch a <hi>Liberty,</hi> recall it; when after that the Nation began to apprehend it ſelf not ſufficiently ſecured by the <hi>Laws</hi> then in <hi>Eſſe</hi> againſt Popery, and that in their general opinion a <hi>Law</hi> was judged neceſſary to <hi>qualifie and diſtinguiſh all Perſons in Office and place of Truſt,</hi> did not his Majeſty <hi>Conſent to all ſuch Laws</hi> as they offered him, and particularly to that great and memorable Act, <hi>for preventing of Dangers which may happen from Popiſh Recuſants,</hi> 25 Car. <hi>Ch. 2d,</hi> thereby diſabling a <hi>Papiſt</hi> from holding any <hi>Office</hi> or <hi>Employment</hi> tho' but of a Noble a Year, and that with<g ref="char:EOLhyphen"/>out reſervation of any one perſon on his ſide, tho' he had then ſeveral by him, of whoſe <hi>Truth</hi> and <hi>ſincere Affection</hi> to his <hi>Perſon and Government,</hi> he had unqueſtionable proofs; Was not this <hi>one thing alone</hi> ſufficient to belye thoſe Villains, who let fall Words as tho' the King himſelf <hi>leaned</hi> a little that way, for it is not to be imagined by a <hi>Man of Senſe,</hi> that a Prince who had <hi>power to refuſe a Law,</hi> would ever paſs one to the utter defeating all deſigns and meaſures of a party whoſe Intereſts he ſecretly favoured and meant to Advance.</p>
+            <p>When afterwards that party, reſtleſs in contriving Miſchief, contrived or rather continued and carried on the moſt Helliſh Deſign that was ever inſpired from thence into the very worſt Order of Men, and that Deſign was happily diſcovered, how did his Majeſty behave himſelf in that matter, he <hi>Summons his Parliament,</hi> and till that can come, proceeds by all <hi>imaginable means</hi> to ſearch <hi>into the Plot,</hi> and <hi>after the Plotters,</hi> to ſeize their <hi>Perſons and Papers,</hi> then lays the whole before the <hi>Parliament,</hi> aſſuring them, <hi>That he would be always ready to aid them in the Inquiry into the Plot, in any thing where his concurrence was neceſſary, and accordingly, as they deſired, by ſeveral Proclamati<g ref="char:EOLhyphen"/>ons aſſiſting them, by ſome commanding the Abſence of Papiſts, by others enquiring after Blood, with moſt bountiful promiſes of pardon and recompence; Searching all Counties, ſe<g ref="char:EOLhyphen"/>curing the Ports to prevent any flight from, and looking into the very Priſons to bring all Ma<g ref="char:EOLhyphen"/>lefactors to Juſtice.</hi> For ſuch as laid hold of mercy and came in upon his Proclamation, he not only pardoned them, but that no Encouragement might be wanting to bring in others for the further Diſcovery of the very depths of that Deſign, provided large<g ref="char:EOLhyphen"/>ly for them, aſſigning them Guards for their perſons, till they themſelves thought they were ſafe enough without them; making them at all times large Allowances, which if they did not prove equally great, yet were the leaſt more then ſufficient, and that at a time when the emptineſs of his Coffers might well have excuſed him, and when his own faithful Servants went unpaid; As many as the Law <hi>Condemned</hi> were <hi>Executed,</hi> his Prerogative never interpoſing betwixt the Attainder and the Executi<g ref="char:EOLhyphen"/>on; ſuch as were impriſoned, and after long reſtraint they might reaſonably expect a Tryal, and to that purpoſe apply'd themſelves in all humble manner to him, receiv<g ref="char:EOLhyphen"/>ed no other ſatisfaction, then <hi>the aſſurance of having Juſtice in Parliament;</hi> nay, he was even deaf to the prayer of the Man he lov'd, (who deſired <hi>but to recover his Health in the Country with a ſtrong Guard,</hi>) tho' he were well ſatisfied by the Teſtimony of learn<g ref="char:EOLhyphen"/>ed Phyſitians, that <hi>the continuing in the Tower would in all likelihood be his Death,</hi> and this becauſe his people had accuſed him.</p>
+            <p>A War againſt the <hi>French</hi> was judged neceſſary by the Parliament, and to that end Money, was given by a <hi>Poll,</hi> by which Bill, 30 <hi>Car.</hi> (an undenyable proof of the ſince<g ref="char:EOLhyphen"/>rity of the Kings <hi>Intention</hi> therein) <hi>All Trade and Commerce is forbidden for Three Years,</hi> thereby depriving himſelf of a very conſiderable part of his Revenue, whilſt the ſub<g ref="char:EOLhyphen"/>tle <hi>Hollander,</hi> for whoſe ſake that War was intended, and conſequently that Trade
+<pb n="3" facs="tcp:98709:2"/>forbidden, forbid but for one Year, whereby the <hi>French</hi> Commodities did not (as was intended by as they ſhould) lye on their Hands, but ſtill vented by the means of our Neighbours, from whom we received them with the advantage of paying dearer for them, and the King of <hi>England</hi> received thoſe great diſadvantages which by the <hi>In<g ref="char:EOLhyphen"/>tent</hi> of the Act were meant for the <hi>French.</hi>
+            </p>
+            <p>An Army they deſired to have, and had one to ſerve againſt the <hi>French,</hi> when ſee on a ſudden that very Army muſt be disbanded, e're it could be well Ship'd in order to perform the Service it was raiſed for, this Army raiſed, and but juſt muſtered in the Spring, is by act of Parliament in <hi>July</hi> following Disbanded, in which the King com<g ref="char:EOLhyphen"/>ply'd with them, and as far as the Money given to Disband them, would go, they were Disbanded, with which he acquaints the Parliament at the opening of the Seſſions on the 6th. of <hi>March,</hi> 1679, and told them, <hi>He waited but for further Supplies from them to Disband the reſt;</hi> a very great kindneſs ſo ſoon to return them to their Wives and chil<g ref="char:EOLhyphen"/>dren, leaſt by too long a <hi>Diſcontinuance</hi> they ſhould have been either unable or unwil<g ref="char:EOLhyphen"/>ling to return to their firſt lawful Vocation, a greater complyance than this cannot be found, <hi>will they have an Army, he raiſes one to pleaſe them; will they have none, he Diſ<g ref="char:EOLhyphen"/>bands it to gratifie them.</hi>
+            </p>
+            <p>There is yet one thing untouch'd, which evil-minded Men have always in their mouths, <hi>How have we been ſqueezed</hi> (ſay they) <hi>by that long Parliament, more Money has been given by them, than by all the Parliaments ſince the Conquerour, and yet the King wants more:</hi> Men ſufficiently ill natur'd (not to ſay worſe) to grudge at their own Gifts, and reproach the King with what they indeed are glad of, that of ſo vaſt ſumms, ſo little remains unſpent; and ſurely the King has moſt reaſon to be angry, now he ſees how hard it is to have more, that ſo many ſure Friends to, and ſupporters of Empire, ſo many <hi>Engliſh</hi> pounds have been no better Husbanded againſt an evil day; and yet to do him juſtice in this point, I muſt ſay, that whatever has been given him, if abſolute<g ref="char:EOLhyphen"/>ly he was ſole Maſter of, and might ſpend it as he liſted, and what has been raiſed for any ſpecial uſe or purpoſe has been conſtantly applyed to the uſe it was deſigned and appropriated to; now as for any ſumms before the 17th. of <hi>April,</hi> 1667, there will be no queſtion, for to that time we may reſt ſatisfied, that the Earl of <hi>Bridgewater</hi> and ſeveral others, whereof ſome were of the <hi>Houſe of Commons,</hi> by Virtue of a Commiſſi<g ref="char:EOLhyphen"/>on to them directed under the great Seal, (which the King upon intimation from his Parliament, that ſeveral great ſumms raiſed for ſpecial uſes, had been miſemployed, had promiſe to grant) did then according to the directions of the Commiſſion enquire into all ſumms raiſed till then, and what they found perverted to wrong uſes, by the power they had by that Commiſſion, did obliege all <hi>Treaſurers, Pay-Maſters, Receiv<g ref="char:EOLhyphen"/>ers,</hi> and other Agents to reſtore; and this was done, ſays that Commiſſion, that the Kings people might be ſatisfied, that what ſumms had been given to the ſupporting that great War with <hi>France</hi> and <hi>Holland,</hi> which had laſted ſome years, and was ended but in <hi>Auguſt</hi> after, were expended as they had been deſigned, the principal ſumms then under conſideration of the Commiſſioners, were the ſumm of 1250000 <abbr>
+                  <hi>l.</hi>
+               </abbr> 17. <hi>Car.</hi> Ch. <hi>1ſt.</hi> and that great and famous Royal aid being of 2477500 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſince which time then of <hi>April,</hi> 1667. they that will take the pains to examine the ſeveral Money-Bills, will find how the Money was deſigned, and how it has been ſpent is in every Mans re<g ref="char:EOLhyphen"/>membrance; but yet to inſtance in ſome of lateſt date: for inſtance, the 584978 <abbr>
+                  <hi>l.</hi>
+               </abbr> gi<g ref="char:EOLhyphen"/>ven to build Thirty Ships of War, has been laid out accordingly, and more with it: the <hi>Poll-Bill</hi> was to enable him to raiſe an Army againſt the <hi>French,</hi> and it did ſo, not<g ref="char:EOLhyphen"/>withſtanding that it fell exceedingly ſhort of what was <hi>expected by the King,</hi> and <hi>Inten<g ref="char:EOLhyphen"/>ded by the Parliament:</hi> there is indeed one inſtance of Money miſapplyed, if I may give that name to the laying out of Money (tho' to the beſt purpoſe imaginable) intended for a contrary uſe: for I find the ſumm of 619380 <abbr>
+                  <hi>l.</hi>
+               </abbr> given 30 <hi>Car.</hi> to disband the Ar<g ref="char:EOLhyphen"/>my, was employed in keeping part on foot, but it was upon ſo extraordinary occaſi<g ref="char:EOLhyphen"/>on, and to ſo good a purpoſe, that the Commons themſelves remained ſatisfied with the Account his Majeſty vouchſafed to give them of the <hi>important accidents that occaſi<g ref="char:EOLhyphen"/>oned the continuing of it, and the good ſervice that accrued by it;</hi> ſo that upon the whole,
+<pb n="4" facs="tcp:98709:3"/>he has been a moſt <hi>faithful Treaſurer</hi> of ſuch ſumms as were given to any <hi>ſpecial <g ref="char:V">Ʋ</g>ſe,</hi> and for what at any time was given otherwiſe, it were the heighth of <hi>Inſolence</hi> and <hi>Ill Manners</hi> to enquire into <hi>the ſpending of it.</hi>
+            </p>
+            <p>When the growing danger of <hi>Popery</hi> required ſome further Laws then thoſe then in force againſt it, and it was thought as <hi>Dangerous</hi> for a <hi>Papiſt</hi> to Sit in either Houſe, as to hold Offices or Employs; how willingly did he paſs a Bill <hi>to diſable all of that Re<g ref="char:EOLhyphen"/>ligion</hi> upon the very account of their <hi>Faith,</hi> to the <hi>Diſinheriting</hi> of many great Peers, for ſure, till then, a Seat in Parliament was their <hi>Birth-right and Inheritance,</hi> and this he did that <hi>nothing might be wanting on his part to ſecure his People,</hi> that he meant for to leave them in as good a <hi>Condition</hi> as to their <hi>Religion and Liberties</hi> (and in a much bet<g ref="char:EOLhyphen"/>ter indeed) than he found them; but for further ſatisfaction we will turn to his <hi>own Speech</hi> to the <hi>Parliament,</hi> 6 March. 1679. <hi>I have done,</hi> ſays he, <hi>many great things alrea<g ref="char:EOLhyphen"/>dy, as the Excluſion of the Popiſh Lords from their Seats in Parliament, the Execution of ſe<g ref="char:EOLhyphen"/>veral Men, both upon the ſcore of the Plot, and the Murder of Sir</hi> Edmund-Bury-Godfrey; <hi>and it is apparent that I have not been idle in proſecuting the Diſcovery of both as much fur<g ref="char:EOLhyphen"/>ther as has been poſſible for me in ſo ſhort a time; and above all, I have commanded my Brother to abſent himſelf from me, becauſe I would not leave the moſt Malicious Men room to ſay, I had not removed all cauſes which could be pretended to influence me towards Popiſh Councils:</hi> From theſe Words of the King, we may very reaſonably inferr, (what is true in the judgement of as great a Man as this, and I believe any other Nation can ſhow) that he who for our ſakes could part with ſuch a Brother, has now to be ſure no Favourite but his people; and truly 'tis to be believed, that he who in ſo many Years has <hi>denyed no<g ref="char:EOLhyphen"/>thing</hi> to his <hi>People,</hi> (that one thing excepted, ſo often deſired, and as often denyed the Dukes <hi>Excluſion</hi>) were he really as well ſatisfied that he might as rightfully (for no Man queſtions but he may legally) and in <hi>good Conſcience</hi> put him by the Crown for ever, as he may remove him from his perſon for a time, without all doubt he would do it, if then ſo many <hi>Denyals</hi> to depart from his <hi>Reſolution</hi> of <hi>Preſerving the Deſcent</hi> be, as ſure they are, the effect of his Judgement; It is not perhaps a matter of ſuch <hi>Wonder</hi> that a <hi>Conſciencious Prince</hi> ſhould refuſe to do what he really believes would be a <hi>wrong<g ref="char:EOLhyphen"/>ful Act,</hi> how profitable and expedient ſoever it might be. Nay further, it is perhaps the very <hi>worſt Condition</hi> of a people to have a Prince, who in acting takes not his mea<g ref="char:EOLhyphen"/>ſures by what is <hi>Right and Honeſt,</hi> but <hi>Profitable and Convenient,</hi> yet notwithſtanding all this, the <hi>Effects of Judgement</hi> are miſtaken, and I fear by ſome wilfully miſconſtru<g ref="char:EOLhyphen"/>ed for <hi>Inclination,</hi> and the King in ſome Mens judgements believes not the Plot, an o<g ref="char:EOLhyphen"/>pinion (however much more tolerable than that which concludes him <hi>Diſaffected to Religion</hi>) ſevere and impertinent, for without all doubt a Prince in all Reſpects ſo merciful, would never have given way to the Execution of ſo many Men, if he had not believed them guilty; they no doubt gueſs better who conclude he believes not his Brother in the Plot; now that execution of ſo many Men, does as clearly convince me that the King believes the Plot, as the deſign in that Plot againſt his perſon does aſſure me that he is not a Man for their turn, but a firm adherer to the moſt excellent <hi>Church</hi> of <hi>England</hi> and its pure and primitive Doctrine. Hitherto I have run over ſome few of the Kings <hi>Actions,</hi> I have but Two Words as to his <hi>Inclinations,</hi> which as they much contribute to our <hi>Happineſs,</hi> can no wiſe be omitted: 'Tis allowed by all Men that Two Vices there are above all others dangerous in a Prince, <hi>Cruelty</hi> and <hi>Co<g ref="char:EOLhyphen"/>vetouſneſs,</hi> for they alone ſtrike at all, Men hold moſt dear, Lives and Fortunes, and if this be ſo, the contrary of thoſe Vices, <hi>Mercy</hi> and <hi>Liberality</hi> may juſtly be reckoned the Cardinal Vertues of Majeſty, which are no where more remarkably united then in the perſon of our King, ſo that he may well ſay, <hi>Whoſe Ox, or whoſe Aſs has he ta<g ref="char:EOLhyphen"/>ken, and it ſhall be reſtored;</hi> May, their Oxes and Aſſes, their Eſtates, Liberties, and Lives, when the Law has adjudged them his, how often has he remitted: how unrea<g ref="char:EOLhyphen"/>ſonable then are ſome perſons, who to prevent a poſſibility (and that a remote one too) of Troubles hereafter, would brake the preſent peace and happineſs of the Na<g ref="char:EOLhyphen"/>tion, under ſo excellent a Ruler.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. B.</hi> in <hi>Green's-Rents,</hi> neer <hi>Fleet-Bridge,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
